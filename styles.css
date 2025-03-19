@@ -175,14 +175,14 @@ footer {
 }
 
 @media screen and (max-width: 600px) { /* Adjust breakpoint as needed */
-    .main {
+    .main, .intro {
         margin-left: 5%; /* Smaller margins for small screens */
         margin-right: 5%;
     }
 }
 
 @media screen and (max-width: 400px) { /* Even smaller screens */
-    .main {
+    .main, .intro {
         margin-left: 0; /* Remove margins entirely */
         margin-right: 0;
     }
