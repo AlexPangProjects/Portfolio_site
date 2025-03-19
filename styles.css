@@ -179,13 +179,6 @@ footer {
     }
 }
 
-@media screen and (max-width: 400px) { /* Even smaller screens */
-    .main, .intro {
-        margin-left: 0; /* Remove margins entirely */
-        margin-right: 0;
-    }
-}
-
 .resume_container {
     width: 100%;
     padding: 2em;
